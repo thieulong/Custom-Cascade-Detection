@@ -3,7 +3,7 @@ import os
 import time
 
 
-myPath = 'data/images'
+myPath = 'data/Paul/Negative'
 cameraNo = 0
 cameraBrightness = 180
 moduleVal = 10  
